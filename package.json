@@ -6,10 +6,8 @@
   "author": "Tarn Burton <twburton@gmail.com>",
   "keywords": [
     "javascript",
-    "lint",
     "linter",
-    "spellcheck",
-    "spelling"
+    "spell-check"
   ],
   "repository": "https://github.com/yitzchak/linter-spell-javascript",
   "license": "MIT",

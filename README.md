@@ -1,4 +1,6 @@
-# linter-spell-javascript [![Travis-CI Build Status](https://img.shields.io/travis/yitzchak/linter-spell-javascript/master.svg?label=Linux/OSX%20build)](https://travis-ci.org/yitzchak/linter-spell-javascript) [![AppVeyor Build Status](https://img.shields.io/appveyor/ci/yitzchak/linter-spell-javascript/master.svg?label=Windows%20build)](https://ci.appveyor.com/project/yitzchak/linter-spell-javascript) [![David](https://img.shields.io/david/yitzchak/linter-spell-javascript.svg)](https://david-dm.org/yitzchak/linter-spell-javascript)
+# linter-spell-javascript
+
+[![Travis-CI Build Status](https://img.shields.io/travis/yitzchak/linter-spell-javascript/master.svg?label=Linux/OSX%20build)](https://travis-ci.org/yitzchak/linter-spell-javascript) [![AppVeyor Build Status](https://img.shields.io/appveyor/ci/yitzchak/linter-spell-javascript/master.svg?label=Windows%20build)](https://ci.appveyor.com/project/yitzchak/linter-spell-javascript) [![David](https://img.shields.io/david/yitzchak/linter-spell-javascript.svg)](https://david-dm.org/yitzchak/linter-spell-javascript)
 
 Provider for Atom [linter-spell](https://atom.io/packages/linter-spell) package
 to enable JavaScript spell checking.
@@ -15,4 +17,4 @@ and it must therefore be installed.
 
 ## Status
 
-Please note that this package is in an **alpha** state.
+Please note that this package is in an **beta** state.
