@@ -1,15 +1,13 @@
 {
   "name": "linter-spell-javascript",
   "main": "./lib/main",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "JavaScript spell checking using linter-spell.",
   "author": "Tarn Burton <twburton@gmail.com>",
   "keywords": [
     "javascript",
-    "lint",
     "linter",
-    "spellcheck",
-    "spelling"
+    "spell-check"
   ],
   "repository": "https://github.com/yitzchak/linter-spell-javascript",
   "license": "MIT",
@@ -22,6 +20,9 @@
   "dependencies": {
     "lodash": "^4.13.0",
     "atom-package-deps": "^4.0.0"
+  },
+  "devDependecies": {
+    "semver": "^5.3.0"
   },
   "package-deps": [
     "linter-spell",
