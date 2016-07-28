@@ -1,5 +1,12 @@
 # Change Log
 
+## [0.3.0](https://github.com/yitzchak/linter-spell-javascript/tree/0.3.0) (2016-07-28)
+[Full Changelog](https://github.com/yitzchak/linter-spell-javascript/compare/v0.2.0...0.3.0)
+
+**Implemented enhancements:**
+
+- Support embedded spell checking [\#1](https://github.com/yitzchak/linter-spell-javascript/issues/1)
+
 ## [v0.2.0](https://github.com/yitzchak/linter-spell-javascript/tree/v0.2.0) (2016-07-14)
 [Full Changelog](https://github.com/yitzchak/linter-spell-javascript/compare/v0.1.1...v0.2.0)
 
