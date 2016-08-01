@@ -7,11 +7,11 @@
 describe('The linter-spell-javascript provider for Atom Linter', () => {
   const grammar = require('../lib/main').provideGrammar()[0]
 
-  beforeEach(() => {
-    waitsForPromise(() => {
-      return atom.packages.activatePackage('linter-spell-javascript')
-    })
-  })
+  // beforeEach(() => {
+  //   waitsForPromise(() => {
+  //     return atom.packages.activatePackage('linter-spell-javascript')
+  //   })
+  // })
 
   // it('finds spelling regions in "foo.tex"', () => {
   //   waitsForPromise(() => {
