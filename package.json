@@ -54,5 +54,14 @@
         "1.0.0": "provideGrammar"
       }
     }
+  },
+  "configSchema": {
+    "checkComments": {
+      "title": "Check Comments",
+      "description": "Spell check in JavaScript comments.",
+      "type": "boolean",
+      "default": true,
+      "order": 1
+    }
   }
 }
