@@ -13,7 +13,8 @@ Use the Atom package manager and search for "linter-spell-javascript", or run
 ## Prerequisites
 
 This package relies upon [linter-spell](https://atom.io/packages/linter-spell)
-and it must therefore be installed.
+and either [language-javascript](https://atom.io/packages/language-javascript)
+or [language-babel](https://atom.io/packages/language-babel).
 
 ## Status
 

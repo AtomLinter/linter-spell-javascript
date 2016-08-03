@@ -28,7 +28,8 @@
     "linter-spell"
   ],
   "activationHooks": [
-    "language-javascript:grammar-used"
+    "language-javascript:grammar-used",
+    "language-babel:grammar-used"
   ],
   "standard": {
     "parser": "babel-eslint",
