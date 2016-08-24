@@ -15,7 +15,7 @@ Use the Atom package manager and search for "linter-spell-javascript", or run
 This package relies upon [linter-spell](https://atom.io/packages/linter-spell)
 and either [language-javascript](https://atom.io/packages/language-javascript)
 or [language-babel](https://atom.io/packages/language-babel). For JSON grammar
-this packages relies up [language-json])(https://atom.io/packages/language-json)
+this packages relies up [language-json](https://atom.io/packages/language-json).
 
 ## Status
 

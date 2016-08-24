@@ -1,7 +1,7 @@
 # Change Log
 
-## [0.4.0](https://github.com/yitzchak/linter-spell-javascript/tree/0.4.0) (2016-08-03)
-[Full Changelog](https://github.com/yitzchak/linter-spell-javascript/compare/v0.3.0...0.4.0)
+## [v0.4.0](https://github.com/yitzchak/linter-spell-javascript/tree/v0.4.0) (2016-08-03)
+[Full Changelog](https://github.com/yitzchak/linter-spell-javascript/compare/v0.3.0...v0.4.0)
 
 **Implemented enhancements:**
 
