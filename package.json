@@ -29,7 +29,8 @@
   ],
   "activationHooks": [
     "language-javascript:grammar-used",
-    "language-babel:grammar-used"
+    "language-babel:grammar-used",
+    "language-json:grammar-used"
   ],
   "standard": {
     "parser": "babel-eslint",
