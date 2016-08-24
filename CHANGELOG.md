@@ -1,5 +1,15 @@
 # Change Log
 
+## [v0.6.0](https://github.com/yitzchak/linter-spell-javascript/tree/v0.6.0) (2016-08-24)
+[Full Changelog](https://github.com/yitzchak/linter-spell-javascript/compare/v0.5.0...v0.6.0)
+
+## [v0.5.0](https://github.com/yitzchak/linter-spell-javascript/tree/v0.5.0) (2016-08-24)
+[Full Changelog](https://github.com/yitzchak/linter-spell-javascript/compare/v0.4.0...v0.5.0)
+
+**Implemented enhancements:**
+
+- Can .json files be checked as well? [\#4](https://github.com/yitzchak/linter-spell-javascript/issues/4)
+
 ## [v0.4.0](https://github.com/yitzchak/linter-spell-javascript/tree/v0.4.0) (2016-08-03)
 [Full Changelog](https://github.com/yitzchak/linter-spell-javascript/compare/v0.3.0...v0.4.0)
 
