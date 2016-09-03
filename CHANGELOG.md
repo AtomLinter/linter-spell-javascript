@@ -1,5 +1,12 @@
 # Change Log
 
+## [0.7.0](https://github.com/yitzchak/linter-spell-javascript/tree/0.7.0) (2016-09-03)
+[Full Changelog](https://github.com/yitzchak/linter-spell-javascript/compare/v0.6.0...0.7.0)
+
+**Implemented enhancements:**
+
+- Implement grammar specific dictionary [\#5](https://github.com/yitzchak/linter-spell-javascript/issues/5)
+
 ## [v0.6.0](https://github.com/yitzchak/linter-spell-javascript/tree/v0.6.0) (2016-08-24)
 [Full Changelog](https://github.com/yitzchak/linter-spell-javascript/compare/v0.5.0...v0.6.0)
 
