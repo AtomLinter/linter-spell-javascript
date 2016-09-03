@@ -1,7 +1,7 @@
 {
   "name": "linter-spell-javascript",
   "main": "./lib/main",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "JavaScript spell checking using linter-spell.",
   "author": "Tarn Burton <twburton@gmail.com>",
   "keywords": [
@@ -76,4 +76,5 @@
       "default": [],
       "order": 2
     }
-  }}
+  }
+}
