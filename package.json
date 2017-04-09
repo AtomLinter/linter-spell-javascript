@@ -1,7 +1,7 @@
 {
   "name": "linter-spell-javascript",
   "main": "./lib/main",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "description": "JavaScript spell checking using linter-spell.",
   "author": "Tarn Burton <twburton@gmail.com>",
   "keywords": [
@@ -9,13 +9,13 @@
     "linter",
     "spell-check"
   ],
-  "repository": "https://github.com/yitzchak/linter-spell-javascript",
+  "repository": "https://github.com/AtomLinter/linter-spell-javascript",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0"
   },
   "bugs": {
-    "url": "https://github.com/yitzchak/linter-spell-javascript/issues"
+    "url": "https://github.com/AtomLinter/linter-spell-javascript/issues"
   },
   "dependencies": {
     "lodash": "^4.13.0",
