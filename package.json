@@ -63,18 +63,30 @@
     }
   },
   "configSchema": {
+    "checkCode": {
+      "description": "Spell check in JavaScript code.",
+      "type": "boolean",
+      "default": true,
+      "order": 1
+    },
+    "checkStrings": {
+      "description": "Spell check in JavaScript strings.",
+      "type": "boolean",
+      "default": true,
+      "order": 2
+    },
     "checkComments": {
       "description": "Spell check in JavaScript comments.",
       "type": "boolean",
       "default": true,
-      "order": 1
+      "order": 3
     },
     "words": {
       "title": "JavaScript Words",
       "description": "JavaScript specific word list. Precede word with '!' to make word case sensitive.",
       "type": "array",
       "default": [],
-      "order": 2
+      "order": 4
     }
   }
 }
