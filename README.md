@@ -2,7 +2,7 @@
 
 [![Travis-CI Build Status](https://img.shields.io/travis/AtomLinter/linter-spell-javascript/master.svg?label=Linux/OSX%20build)](https://travis-ci.org/AtomLinter/linter-spell-javascript)
 [![AppVeyor Build Status](https://img.shields.io/appveyor/ci/yitzchak/linter-spell-javascript/master.svg?label=Windows%20build)](https://ci.appveyor.com/project/yitzchak/linter-spell-javascript)
-[![David](https://img.shields.io/david/AtomLinter/linter-spell-javascript.svg)](https://david-dm.org/AtomLinter/linter-spell-javascript)
+[![David](https://img.shields.io/david/AtomLinter/linter-spell-javascript.svg)](https://david-dm.org/AtomLinter/linter-spell-javascript) [![Greenkeeper badge](https://badges.greenkeeper.io/AtomLinter/linter-spell-javascript.svg)](https://greenkeeper.io/)
 
 Provider for Atom [linter-spell](https://atom.io/packages/linter-spell) package
 to enable JavaScript and JSON spell checking.
